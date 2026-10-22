@@ -1,0 +1,14 @@
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\bin\Debug\net10.0\EstructuraFibonacci.exe
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\bin\Debug\net10.0\EstructuraFibonacci.deps.json
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\bin\Debug\net10.0\EstructuraFibonacci.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\bin\Debug\net10.0\EstructuraFibonacci.dll
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\bin\Debug\net10.0\EstructuraFibonacci.pdb
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\obj\Debug\net10.0\EstructuraFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\obj\Debug\net10.0\EstructuraFibonacci.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\obj\Debug\net10.0\EstructuraFibonacci.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\obj\Debug\net10.0\EstructuraFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\obj\Debug\net10.0\EstructuraFibonacci.dll
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\obj\Debug\net10.0\refint\EstructuraFibonacci.dll
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\obj\Debug\net10.0\EstructuraFibonacci.pdb
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\obj\Debug\net10.0\EstructuraFibonacci.genruntimeconfig.cache
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\EstructuraFibonacci\EstructuraFibonacci\obj\Debug\net10.0\ref\EstructuraFibonacci.dll
