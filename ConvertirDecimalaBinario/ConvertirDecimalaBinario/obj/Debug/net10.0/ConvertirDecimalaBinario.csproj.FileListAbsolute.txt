@@ -1,0 +1,14 @@
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\obj\Debug\net10.0\ConvertirDecimalaBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\obj\Debug\net10.0\ConvertirDecimalaBinario.AssemblyInfoInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\obj\Debug\net10.0\ConvertirDecimalaBinario.AssemblyInfo.cs
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\obj\Debug\net10.0\ConvertirDecimalaBinario.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\bin\Debug\net10.0\ConvertirDecimalaBinario.exe
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\bin\Debug\net10.0\ConvertirDecimalaBinario.deps.json
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\bin\Debug\net10.0\ConvertirDecimalaBinario.runtimeconfig.json
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\bin\Debug\net10.0\ConvertirDecimalaBinario.dll
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\bin\Debug\net10.0\ConvertirDecimalaBinario.pdb
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\obj\Debug\net10.0\ConvertirDecimalaBinario.dll
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\obj\Debug\net10.0\refint\ConvertirDecimalaBinario.dll
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\obj\Debug\net10.0\ConvertirDecimalaBinario.pdb
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\obj\Debug\net10.0\ConvertirDecimalaBinario.genruntimeconfig.cache
+C:\Users\luisg\OneDrive\Escritorio\EstructuraDatosU2\ConvertirDecimalaBinario\ConvertirDecimalaBinario\obj\Debug\net10.0\ref\ConvertirDecimalaBinario.dll
